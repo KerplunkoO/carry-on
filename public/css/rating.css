@@ -1,0 +1,25 @@
+.rate{
+	cursor: pointer;
+}
+.rating-star{
+	position:relative;
+}
+.rating-star:before{
+	content: "\f006";
+	font: normal normal normal 14px/1 FontAwesome;
+}
+.rating-star-hover:before{
+	position:relative;
+}
+.rating-star-hover:before{
+	content: "\f005";
+	font: normal normal normal 14px/1 FontAwesome;
+}
+.rating-star-check{
+	color: #dbb027;
+	position:relative;
+}
+.rating-star-check:before{
+	content: "\f005";
+	font: normal normal normal 14px/1 FontAwesome;
+}

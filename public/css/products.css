@@ -1,0 +1,56 @@
+.catalog{
+	font-size: 25px;
+}
+.catalog img{
+	width: 220px;
+	height: 200px;
+}
+.catalog a:hover{
+	text-decoration: none;
+}
+.fade {
+	opacity: 1 !important;
+	transition: opacity .25s ease-in-out;
+	-moz-transition: opacity .25s ease-in-out;
+	-webkit-transition: opacity .25s ease-in-out;
+}
+.fade:hover {
+	opacity: 0.5 !important; 
+}
+
+.list-group-item-1{
+	color: #a94442;
+	background-color: #f2dede !important;
+}
+.list-group-item-2 {
+	color: #8a6d3b;
+	background-color: #fff4b9 !important;
+}
+.list-group-item-3{
+	color: #31708f;
+	background-color: #d0e7fb !important;
+}
+.list-group-item-4{
+	color: #4ca4d0;
+	background-color: #c3f6f9 !important;
+}
+.list-group-item-5 {
+	color: #3c763d;
+	background-color: #dff0d8 !important;
+}
+
+.progress-bar-1{
+	background-color: #d9534f !important;
+}
+.progress-bar-2{
+	background-color: #f0ad4e !important;
+}
+.progress-bar-3{
+	background-color: #337ab7 !important;
+}
+.progress-bar-4{
+	background-color: #5bc0de !important;
+}
+.progress-bar-5{
+	background-color: #5cb85c !important;
+}
